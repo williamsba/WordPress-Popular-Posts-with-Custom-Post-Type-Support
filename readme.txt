@@ -45,8 +45,8 @@ Also, if you are upgrading from any version prior to 1.4.6, please [update to 1.
 1. Download the plugin and extract its contents.
 2. Upload the `wordpress-popular-posts` folder to the `/wp-content/plugins/` directory.
 3. Activate **Wordpress Popular Posts** plugin through the 'Plugins' menu in WordPress.
-4. In your admin console, go to Appeareance > Widgets, drag the Wordpress Popular Posts widget to wherever you want it to be and click on Save.
-5. (optional) Go to Appeareance > Editor. On "Theme Files", click on `header.php` and make sure that the `<?php wp_head(); ?>` tag is present (should be right before the closing `</head>` tag).
+4. In your admin console, go to Appearance > Widgets, drag the Wordpress Popular Posts widget to wherever you want it to be and click on Save.
+5. (optional) Go to Appearance > Editor. On "Theme Files", click on `header.php` and make sure that the `<?php wp_head(); ?>` tag is present (should be right before the closing `</head>` tag).
 
 That's it!
 
